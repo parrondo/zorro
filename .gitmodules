@@ -1,0 +1,3 @@
+[submodule "algo-stocks-strategy"]
+	path = Strategy
+	url = https://github.com/algo-stocks/strategy
