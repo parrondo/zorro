@@ -1,3 +1,3 @@
 [submodule "algo-stocks-strategy"]
-	path = Strategy
+	path = Strategy/David
 	url = git@github.com:algo-stocks/strategy.git
