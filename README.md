@@ -1,6 +1,6 @@
 ## Zorro git - Step by step
 
-1. Create git folder
+1. Create Zorro folder
 
 2. Clone git repo to new folder
 
@@ -10,15 +10,14 @@ git clone https://github.com/zuongthaotn/zorro .
 
 git submodule update --init --recursive
 
-4. Create Zorro folder
  
-5. Download & Install Zorro 
+4. Download & Install Zorro into Zorro folder
 
-6. Rename the Strategy to Strategy.old
+5. Rename the Strategy to Strategy.old
 
-7. Move all code from git folder to Zorro folder
+6. Move all code from git folder to Zorro folder
 
-8. run _deploy_repo.cmd
+7. run _deploy_repo.cmd
 
 ## Using
 1. Copying file price data and rename it to a assest name
