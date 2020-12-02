@@ -5,7 +5,7 @@ function run()
 	StartDate = 2010;
 	EndDate = 2015; // fixed simulation period 2010-2015
 
-	BarPeriod = 240;	// 4 hour bars
+	BarPeriod = 240;	// 8 hour bars
 	
 // calculate the buy/sell signal
 	vars Price = series(price());
