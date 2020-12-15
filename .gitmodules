@@ -3,4 +3,4 @@
 	url = git@github.com:algo-stocks/strategy.git
 [submodule "magnus-strategy"]
 	path = Strategy/Magnus
-	url = https://github.com/zuongthaotn/strategy
+	url = git@github.com:zuongthaotn/strategy.git
